@@ -1,4 +1,4 @@
-# Repo  Template
+# Train-the-Trainer Training Lesson Plan
 
 ## Description
 
