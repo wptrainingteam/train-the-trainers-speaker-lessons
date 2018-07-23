@@ -6,9 +6,8 @@ This lesson will prepare you to train meetup, WordCamp, and other event organize
 
 ## Prerequisite Skills
 
-A bulleted list of skills students require to learn and understand the lesson plan:
-
-*   List of skills
+*   Experience running a meetup, WordCamp, or similar event
+*   Appreciation of the benefits of diversity and inclusion
 
 ## Objectives
 
