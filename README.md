@@ -18,6 +18,8 @@ Students will be able to:
 *   help local organizers set the scope and schedule for their Diversity Outreach trainings
 *   impart the rationale for favoring presenters who are members of the under-represented group
 
+**CONTINUE HERE**
+
 ## Assets
 
 A bulleted list of linked files/materials the instructor needs to teach the lesson plan.
