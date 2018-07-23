@@ -2,7 +2,7 @@
 
 ## Description
 
-A short paragraph explaining what is covered in the lesson plan. This should be text that can be copied and used in a Meetup or workshop description.
+This lesson will prepare you to train meetup, WordCamp, and other event organizers to run Diversity Outreach training workshops in their local communities.
 
 ## Prerequisite Skills
 
