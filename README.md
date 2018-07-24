@@ -1,24 +1,24 @@
-# Repo  Template
+# Train-the-Trainer Training Lesson Plan
 
 ## Description
 
-A short paragraph explaining what is covered in the lesson plan. This should be text that can be copied and used in a Meetup or workshop description.
+This lesson will prepare you to train meetup, WordCamp, and other event organizers to run Diversity Outreach training workshops in their local communities.
 
 ## Prerequisite Skills
 
-A bulleted list of skills students require to learn and understand the lesson plan:
-
-*   List of skills
+*   Experience running a meetup, WordCamp, or similar event
+*   Appreciation of the benefits of diversity and inclusion
 
 ## Objectives
 
-It’s recommended that you include a bulleted list of objective(s) for each lesson plan. Objectives should be worded as actions that the student can do once they’ve finished. See [Bloom's Taxonomy of Action Verbs](http://www.fresnostate.edu/academics/oie/documents/assesments/Blooms%20Level.pdf) (PDF) as a reference. Avoid using words like "know," "understand," "be introduced to," etc. **Correct**
+Students will be able to:
 
-*   Students will be able to identify the files required to make a theme.
+*   locate and work with the [Meetup Workshop Tracker spreadsheet](https://docs.google.com/spreadsheets/d/195OBnYAOIvZNeoOSmginTtwzY8yegWCQWWm4Jf31gik/edit#gid=2024231725)
+*   locate and share via Zoom the course training video
+*   help local organizers set the scope and schedule for their Diversity Outreach trainings
+*   impart the rationale for favoring presenters who are members of the under-represented group
 
-**Incorrect**
-
-*   Students will know the files required to make a theme.
+**CONTINUE HERE**
 
 ## Assets
 
