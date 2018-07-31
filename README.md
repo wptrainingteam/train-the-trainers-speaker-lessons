@@ -18,20 +18,23 @@ Students will be able to:
 *   help local organizers set the scope and schedule for their Diversity Outreach trainings
 *   impart the rationale for favoring presenters who are members of the under-represented group
 
-**CONTINUE HERE**
-
 ## Assets
 
 A bulleted list of linked files/materials the instructor needs to teach the lesson plan.
 
 *   [training video](https://www.dropbox.com/s/owcnwuvk1idfci0/Diversity%20Speakers%20Workshop%20Training%20March%2027%2C%202018.mp4?dl=0)
+*   [Speaker Training/Diversity Outreach lesson plans](https://make.wordpress.org/training/handbook/speaker-training/)
+*   [sample slide decks](https://docs.google.com/presentation/d/1I-BlIHsvP_zJgc6AAIOBt0xUgtUUI7Q3X_VnUSNoxH4/edit#slide=id.g360c9df968_0_14)
 *   [Meetup Workshop Tracker spreadsheet](https://docs.google.com/spreadsheets/d/195OBnYAOIvZNeoOSmginTtwzY8yegWCQWWm4Jf31gik/edit#gid=2024231725)
+
+**CONTINUE HERE**
 
 ## Screening Questions
 
 A list of evaluation questions for students to see if they have the skills necessary to learn and understand the lesson. These can be used as pre-screening questions on Meetup.
 
-*   For example, have you ever used WordPress?
+*   Have you worked with speakers as a Meetup or WordCamp organizer?
+*   
 
 ## Teacher Notes
 
