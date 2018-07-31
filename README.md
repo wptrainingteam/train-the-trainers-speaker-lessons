@@ -26,8 +26,7 @@ A bulleted list of linked files/materials the instructor needs to teach the less
 *   [Speaker Training/Diversity Outreach lesson plans](https://make.wordpress.org/training/handbook/speaker-training/)
 *   [sample slide decks](https://docs.google.com/presentation/d/1I-BlIHsvP_zJgc6AAIOBt0xUgtUUI7Q3X_VnUSNoxH4/edit#slide=id.g360c9df968_0_14)
 *   [Meetup Workshop Tracker spreadsheet](https://docs.google.com/spreadsheets/d/195OBnYAOIvZNeoOSmginTtwzY8yegWCQWWm4Jf31gik/edit#gid=2024231725)
-
-**CONTINUE HERE**
+*   [Diversity Speaker Training Workshop Schedule (calendar)](https://calendar.google.com/calendar/embed?src=6dt9nr41mol9t1let9jp12f5oc%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 
 ## Screening Questions
 
@@ -36,6 +35,8 @@ A list of evaluation questions for students to see if they have the skills neces
 *   Have you worked with speakers as a Meetup or WordCamp organizer?
 *   Have you conducted speaker training or similar trainings before?
 *   Are you committed to improving the representation under-represented populations at WordPress events?
+
+**CONTINUE HERE**
 
 ## Teacher Notes
 
