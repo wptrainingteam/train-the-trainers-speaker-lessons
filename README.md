@@ -8,6 +8,7 @@ This lesson will prepare you to train meetup, WordCamp, and other event organize
 
 *   Experience running a meetup, WordCamp, or similar event
 *   Appreciation of the benefits of diversity and inclusion
+*   Familiarity with common WordPress-community communication tools (Zoom, Slack, etc.)
 
 ## Objectives
 
@@ -36,13 +37,17 @@ A list of evaluation questions for students to see if they have the skills neces
 *   Have you conducted speaker training or similar trainings before?
 *   Are you committed to improving the representation under-represented populations at WordPress events?
 
-**CONTINUE HERE**
-
 ## Teacher Notes
 
 A bulleted list of any handy tips or information for the instructor.
 
-*   Tips teachers may want to know
+*   As you begin the class, create a Slack Direct Message group for the class participants (this has worked better than the native chat feature in Zoom and is a tool that WordPress community folks are already familar with and to which they can refer back to after the class)
+*   Point out early in the class intro that while the Speaker Training/Diversity Outreach lesson plan page simply list all five modules, the first three modules are actually the core of the curriculum while the "better speaker" and "great slides" lessons are for reference
+*   Let the students know that this content is equally applicable to meetup and WordCamp organizers
+*   Be ready to address the importance of having a person from the targeted under-represented group lead the talk
+
+**CONTINUE HERE**
+
 
 ## Hands-on Walkthrough
 
