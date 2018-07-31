@@ -48,7 +48,7 @@ A bulleted list of any handy tips or information for the instructor.
 
 ## Hands-on Walkthrough
 
-### 1. Start Zoom Call & Invite Students
+### Start Zoom Call & Invite Students
 
 If you have scheduled the Zoom call and sent invitiations ahead of time, most students will show up on time, but you may need to reach out (typically via the Making WordPress Slack
 
@@ -113,27 +113,14 @@ https://join.slack.com/t/divoutreachspeaker/shared_invite/enQtMzc2Mjk1OTA1NDQ2LW
 
 What is one thing that you got out of today?
 
-**CONTINUE HERE**
-
-
 ## Exercises
 
-These are short or specific activities that test and understand and help you practice certain components of the lesson. They should not be fully scripted exercises, but rather something that you would do on your own. For example, you can create an exercise based on one step of the hands-on walkthrough. **Exercise name** Short description of what the exercise does and what skills or knowledge it reinforces.
-
-*   Short point or step of the exercise
-*   And another.
+To come
 
 ## Quiz
 
-A short quiz for students to evaluate their retention of the material presented. **Write out the question.**
-
-1.  Option
-2.  Option
-3.  Option
-4.  Option
-
-**Answer:** 3\. Correct answer
+To come
 
 ## Additional Resources
 
-An optional section which contains a list of resources that can be used to get more information on the topic.
+To come
