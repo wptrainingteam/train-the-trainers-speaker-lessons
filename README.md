@@ -34,7 +34,8 @@ A bulleted list of linked files/materials the instructor needs to teach the less
 A list of evaluation questions for students to see if they have the skills necessary to learn and understand the lesson. These can be used as pre-screening questions on Meetup.
 
 *   Have you worked with speakers as a Meetup or WordCamp organizer?
-*   
+*   Have you conducted speaker training or similar trainings before?
+*   Are you committed to improving the representation under-represented populations at WordPress events?
 
 ## Teacher Notes
 
