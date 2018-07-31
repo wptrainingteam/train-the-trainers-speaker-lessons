@@ -24,7 +24,8 @@ Students will be able to:
 
 A bulleted list of linked files/materials the instructor needs to teach the lesson plan.
 
-*   [Links to download files](#)
+*   [training video](https://www.dropbox.com/s/owcnwuvk1idfci0/Diversity%20Speakers%20Workshop%20Training%20March%2027%2C%202018.mp4?dl=0)
+*   [Meetup Workshop Tracker spreadsheet](https://docs.google.com/spreadsheets/d/195OBnYAOIvZNeoOSmginTtwzY8yegWCQWWm4Jf31gik/edit#gid=2024231725)
 
 ## Screening Questions
 
