@@ -21,7 +21,7 @@ Students will be able to:
 
 ## Assets
 
-A bulleted list of linked files/materials the instructor needs to teach the lesson plan.
+Here are the files/materials the instructor needs to teach the lesson plan.
 
 *   [training video](https://www.dropbox.com/s/owcnwuvk1idfci0/Diversity%20Speakers%20Workshop%20Training%20March%2027%2C%202018.mp4?dl=0)
 *   [Speaker Training/Diversity Outreach lesson plans](https://make.wordpress.org/training/handbook/speaker-training/)
