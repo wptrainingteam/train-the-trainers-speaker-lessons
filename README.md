@@ -31,7 +31,7 @@ Here are the files/materials the instructor needs to teach the lesson plan.
 
 ## Screening Questions
 
-A list of evaluation questions for students to see if they have the skills necessary to learn and understand the lesson. These can be used as pre-screening questions on Meetup.
+Evaluate students to see if they have the skills necessary to learn and understand the lesson. 
 
 *   Have you worked with speakers as a Meetup or WordCamp organizer?
 *   Have you conducted speaker training or similar trainings before?
