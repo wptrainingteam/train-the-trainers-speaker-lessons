@@ -65,8 +65,8 @@ Round of introductions:
 
 Today we are going to watch a recording that is 1 hour and 20 minutes. This is a hands-on workshop. When the folks in the recording are working on the exercises, please work on the exercises along with them.
 
-During the video you can ask questions in the chatroom.
-*Post a “hello” in the chatroom so that they can see where it is.*
+During the video you can ask questions in the chatroom or on Slack.
+*Post a “hello” in the chatroom or Slack so that they can see where it is.*
 
 There will be a chance to ask questions via webcam after the recording.
 
