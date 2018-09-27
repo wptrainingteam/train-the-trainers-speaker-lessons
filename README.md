@@ -58,7 +58,7 @@ Round of introductions:
 
 *   Name
 *   Pronoun
-*   Location of your meetup
+*   Location of your Meetup or WordCamp
 *   What you are hoping to get out of today
 
 ### Instructions
