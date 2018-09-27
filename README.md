@@ -114,15 +114,3 @@ https://join.slack.com/t/divoutreachspeaker/shared_invite/enQtMzc2Mjk1OTA1NDQ2LW
 * What is one thing that you got out of this training?
 * Was anything unclear?
 * Any questions?
-
-## Exercises
-
-To come
-
-## Quiz
-
-To come
-
-## Additional Resources
-
-To come
