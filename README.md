@@ -39,7 +39,7 @@ Evaluate students to see if they have the skills necessary to learn and understa
 
 ## Teacher Notes
 
-A bulleted list of any handy tips or information for the instructor.
+Tips and other information for the instructor.
 
 *   As you begin the class, create a Slack Direct Message group for the class participants (this has worked better than the native chat feature in Zoom and is a tool that WordPress community folks are already familar with and to which they can refer back to after the class)
 *   Point out early in the class intro that while the Speaker Training/Diversity Outreach lesson plan page simply list all five modules, the first three modules are actually the core of the curriculum while the "better speaker" and "great slides" lessons are for reference
