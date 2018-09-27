@@ -50,7 +50,7 @@ Tips and other information for the instructor.
 
 ### Start Zoom Call & Invite Students
 
-If you have scheduled the Zoom call and sent invitiations ahead of time, most students will show up on time, but you may need to reach out (typically via the Making WordPress Slack
+If you have scheduled the Zoom call and sent invitiations ahead of time, most students will show up on time, but you may need to reach out, typically via the Making WordPress Slack.
 
 ### Introductions
 
