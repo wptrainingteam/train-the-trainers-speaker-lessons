@@ -21,7 +21,7 @@ Students will be able to:
 
 ## Assets
 
-A bulleted list of linked files/materials the instructor needs to teach the lesson plan.
+Here are the files/materials the instructor needs to teach the lesson plan.
 
 *   [training video](https://www.dropbox.com/s/owcnwuvk1idfci0/Diversity%20Speakers%20Workshop%20Training%20March%2027%2C%202018.mp4?dl=0)
 *   [Speaker Training/Diversity Outreach lesson plans](https://make.wordpress.org/training/handbook/speaker-training/)
@@ -31,7 +31,7 @@ A bulleted list of linked files/materials the instructor needs to teach the less
 
 ## Screening Questions
 
-A list of evaluation questions for students to see if they have the skills necessary to learn and understand the lesson. These can be used as pre-screening questions on Meetup.
+Evaluate students to see if they have the skills necessary to learn and understand the lesson. 
 
 *   Have you worked with speakers as a Meetup or WordCamp organizer?
 *   Have you conducted speaker training or similar trainings before?
@@ -39,7 +39,7 @@ A list of evaluation questions for students to see if they have the skills neces
 
 ## Teacher Notes
 
-A bulleted list of any handy tips or information for the instructor.
+Tips and other information for the instructor.
 
 *   As you begin the class, create a Slack Direct Message group for the class participants (this has worked better than the native chat feature in Zoom and is a tool that WordPress community folks are already familar with and to which they can refer back to after the class)
 *   Point out early in the class intro that while the Speaker Training/Diversity Outreach lesson plan page simply list all five modules, the first three modules are actually the core of the curriculum while the "better speaker" and "great slides" lessons are for reference
@@ -50,7 +50,7 @@ A bulleted list of any handy tips or information for the instructor.
 
 ### Start Zoom Call & Invite Students
 
-If you have scheduled the Zoom call and sent invitiations ahead of time, most students will show up on time, but you may need to reach out (typically via the Making WordPress Slack
+If you have scheduled the Zoom call and sent invitiations ahead of time, most students will show up on time, but you may need to reach out, typically via the Making WordPress Slack.
 
 ### Introductions
 
@@ -58,15 +58,15 @@ Round of introductions:
 
 *   Name
 *   Pronoun
-*   Location of your meetup
+*   Location of your Meetup or WordCamp
 *   What you are hoping to get out of today
 
 ### Instructions
 
 Today we are going to watch a recording that is 1 hour and 20 minutes. This is a hands-on workshop. When the folks in the recording are working on the exercises, please work on the exercises along with them.
 
-During the video you can ask questions in the chatroom.
-*Post a “hello” in the chatroom so that they can see where it is.*
+During the video you can ask questions in the chatroom or on Slack.
+*Post a “hello” in the chatroom or Slack so that they can see where it is.*
 
 There will be a chance to ask questions via webcam after the recording.
 
@@ -111,16 +111,6 @@ https://join.slack.com/t/divoutreachspeaker/shared_invite/enQtMzc2Mjk1OTA1NDQ2LW
 
 ### Conclusion
 
-What is one thing that you got out of today?
-
-## Exercises
-
-To come
-
-## Quiz
-
-To come
-
-## Additional Resources
-
-To come
+* What is one thing that you got out of this training?
+* Was anything unclear?
+* Any questions?
