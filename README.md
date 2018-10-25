@@ -68,6 +68,8 @@ Today we are going to watch a recording that is 1 hour and 20 minutes. This is a
 During the video you can ask questions in the chatroom or on Slack.
 *Post a “hello” in the chatroom or Slack so that they can see where it is.*
 
+I will also be putting prompts into the chatroom during the recording for you.
+
 There will be a chance to ask questions via webcam after the recording.
 
 ### Assuring the Students
