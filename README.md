@@ -114,3 +114,13 @@ https://join.slack.com/t/divoutreachspeaker/shared_invite/enQtMzc2Mjk1OTA1NDQ2LW
 * What is one thing that you got out of this training?
 * Was anything unclear?
 * Any questions?
+
+### After the Training
+
+After people attend a Train the Trainers, we update two places:
+
+1. On HelpScout we mark them as being trained and set their email status to Closed. (Unless we agreed to have more contact with them, then we leave it open.)
+
+2. On our spreadsheet we mark them as being trained in purple. It is important to get their city (or region), so if you don’t have that already, be sure to follow up with them and ask!
+
+https://docs.google.com/spreadsheets/d/195OBnYAOIvZNeoOSmginTtwzY8yegWCQWWm4Jf31gik/edit?usp=sharing
