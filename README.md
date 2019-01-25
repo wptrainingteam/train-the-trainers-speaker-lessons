@@ -85,7 +85,7 @@ As we are going through all 5 modules in a short time, sometimes the material in
 
 ### Things to Post in the Chat During the Video:
 
-*   link to the lesson plans when mentioned: https://make.wordpress.org/training/handbook/speaker-training/
+*   link to the lesson plans when mentioned: https://diversespeakers.info/
 *   at the "Reasons" exercise:
     *   “Here’s a spot you can write down your own reasons”
     *   “Here is another writing exercise for you to follow along doing”
