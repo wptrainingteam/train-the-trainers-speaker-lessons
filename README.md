@@ -117,6 +117,8 @@ https://join.slack.com/t/divoutreachspeaker/shared_invite/enQtMzc2Mjk1OTA1NDQ2LW
 * Was anything unclear?
 * Any questions?
 
+We will be sending you an email with the important links as well as a follow-up questionnaire. Please watch for that.
+
 ### After the Training
 
 After people attend a Train the Trainers, we update two places:
