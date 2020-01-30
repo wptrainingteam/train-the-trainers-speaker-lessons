@@ -41,7 +41,7 @@ Evaluate students to see if they have the skills necessary to learn and understa
 
 Tips and other information for the instructor.
 
-*   As you begin the class, create a Slack Direct Message group for the class participants (this has worked better than the native chat feature in Zoom and is a tool that WordPress community folks are already familar with and to which they can refer back to after the class)
+*   As you begin the class, create a Slack Direct Message group for the class participants (this has worked better than the native chat feature in Zoom and is a tool that WordPress community folks are already familiar with and to which they can refer back to after the class)
 *   Point out early in the class intro that while the Speaker Training/Diversity Outreach lesson plan page simply list all five modules, the first three modules are actually the core of the curriculum while the "better speaker" and "great slides" lessons are for reference
 *   Let the students know that this content is equally applicable to meetup and WordCamp organizers
 *   Be ready to address the importance of having a person from the targeted under-represented group lead the talk
@@ -50,7 +50,7 @@ Tips and other information for the instructor.
 
 ### Start Zoom Call & Invite Students
 
-If you have scheduled the Zoom call and sent invitiations ahead of time, most students will show up on time, but you may need to reach out, typically via the Making WordPress Slack.
+If you have scheduled the Zoom call and sent invitations ahead of time, most students will show up on time, but you may need to reach out, typically via the Making WordPress Slack.
 
 ### Introductions
 
